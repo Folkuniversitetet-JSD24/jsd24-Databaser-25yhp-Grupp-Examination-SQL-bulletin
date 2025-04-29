@@ -30,6 +30,7 @@ Läs igen noga ovan och därför modellera upp databasen med dess entiteter och 
 **För Väl Godkänt:**
 * Ett meddelande kan tillhöra en eller flera kanaler.
 * Det går att sortera meddelanden på datum.
+* Exempelanrop bifogas (Postman).
 
 ## Handledning
 
