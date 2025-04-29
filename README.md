@@ -1,7 +1,7 @@
-# jsd24-Databaser-25yhp-Individuell-Examination-SQL-bulletin
-Individuell examination: SQL med PostgreSQL
+# jsd24-Databaser-25yhp-Grupp-Examination-SQL-bulletin
+Grupp examination: SQL med PostgreSQL
 
-# Individuell examination: SQL med PostgreSQL - SQL bulletin
+# Grupp examination: SQL med PostgreSQL - SQL bulletin
 
 ## Instruktioner
 
@@ -26,7 +26,9 @@ Läs igen noga ovan och därför modellera upp databasen med dess entiteter och 
 * Har ett komplett ER-diagram med alla entiteter och relationer som täcker in kraven ovan.
 * Uppfyller all funktionalitet.
 * bifoga exempelanrop till alla endpoints (se länk under inlämning)
-
+* Att alla gruppmedlemmar deltar eller meddelar frånvaro till gruppen senast 12 timmar innan möten, detta gäller för alla grupplanerade möte.
+* Alla gruppmedlemmar deltar i redovisnings momentet (alla ska prata ungefär lika mycket).
+* 
 **För Väl Godkänt:**
 * Ett meddelande kan tillhöra en eller flera kanaler.
 * Det går att sortera meddelanden på datum.
@@ -34,12 +36,13 @@ Läs igen noga ovan och därför modellera upp databasen med dess entiteter och 
 
 ## Handledning
 
-Tid för handledning bokar ni via handledningsdokumentet.
+Tid för handledning bokar ni via handledningsdokumentet: https://docs.google.com/document/d/1zCTCEAbQNIL1zewBV5dzRnqaI0bfOLQJ7r1JBxFD0zg/edit?usp=sharing
+
 
 ## Inlämning
 
-Inlämning sker på Azomo med en länk till ert Github repo med er kod senast **22/5 22:59**.
+Inlämning sker på Azomo med en länk (alla i gruppen måste göra en inlämning) till ert Github repo med er kod senast **22/5 22:59**.
 [dokumentation för att importera/exportera data till postman](https://learning.postman.com/docs/getting-started/importing-and-exporting/importing-and-exporting-overview/#importing-data-into-postman)
 
 ### Redovisning
-Sker genom att 5 random elever redovisar under lektions tid den 21/5, (så alla måste förbereda) alla andra: inspelad redovisning och lämnas in senast 22/5 kl 22:59 till läraren. MAX 15 min redovisning/inspelning.
+Sker genom att alla grupper redovisar under lektionstiden den 21/5. MAX 20 min redovisning/presentation.
