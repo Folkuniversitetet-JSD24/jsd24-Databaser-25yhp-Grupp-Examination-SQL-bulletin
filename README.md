@@ -28,7 +28,8 @@ Läs igen noga ovan och därför modellera upp databasen med dess entiteter och 
 * bifoga exempelanrop till alla endpoints (se länk under inlämning)
 * Att alla gruppmedlemmar deltar eller meddelar frånvaro till gruppen senast 12 timmar innan möten, detta gäller för alla grupplanerade möte.
 * Alla gruppmedlemmar deltar i redovisnings momentet (alla ska prata ungefär lika mycket).
-* 
+* bifoga exempelanrop (använd till exempel: Postman) till alla endpoints (se länk under inlämning)
+
 **För Väl Godkänt:**
 * Ett meddelande kan tillhöra en eller flera kanaler.
 * Det går att sortera meddelanden på datum.
