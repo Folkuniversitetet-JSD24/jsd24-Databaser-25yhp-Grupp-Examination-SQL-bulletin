@@ -10,7 +10,7 @@ Ni ska i denna examination bygga ett API för en tjänst som fungerar som en ans
 * En användare kan "prenumerera" på ingen eller flera olika kanaler.
 * En användare kan posta ett meddelande till enbart en kanal. Kan dock bara posta ett meddelande till en kanal som användaren "prenumererar" på.
 * En användare kan äga inga eller flera kanaler.
-* Ett meddelande kan tillhöra enbart en kanal (**Ej VG**)
+* Ett meddelande kan tillhöra enbart en kanal (**Ej Guldstjärna**)
 * Ett meddelande kan enbart komma från en användare.
 * En kanal kan ha inga eller flera meddelanden.
 * En kanal kan enbart ha en ägare.
@@ -25,12 +25,11 @@ Läs igen noga ovan och därför modellera upp databasen med dess entiteter och 
 **För Godkänt:**
 * Har ett komplett ER-diagram med alla entiteter och relationer som täcker in kraven ovan.
 * Uppfyller all funktionalitet.
-* bifoga exempelanrop till alla endpoints (se länk under inlämning)
 * Att alla gruppmedlemmar deltar eller meddelar frånvaro till gruppen senast 12 timmar innan möten, detta gäller för alla grupplanerade möte.
 * Alla gruppmedlemmar deltar i redovisnings momentet (alla ska prata ungefär lika mycket).
 * bifoga exempelanrop (använd till exempel: Postman) till alla endpoints (se länk under inlämning)
 
-**För Väl Godkänt:**
+**För Guldstjärna:**
 * Ett meddelande kan tillhöra en eller flera kanaler.
 * Det går att sortera meddelanden på datum.
 * Exempelanrop bifogas (Postman).
