@@ -7,7 +7,7 @@
 Ni ska i denna examination bygga ett API och en databas för en tjänst som fungerar som en enkel anslagstavla.
 En användare kan posta ett meddelande till en kanal som denna "prenumererar" på samt se andra meddelanden som finns i den kanalen. Tänk typ väldigt enkla Facebook grupper.
 
-* En användare kan **äga** på ingen eller flera olika kanaler (t.ex. “Filmälskare”).
+* En användare kan **äga** ingen eller flera olika kanaler (t.ex. “Filmälskare”).
 * En användare kan **prenumerera/bli medlem** på noll eller flera kanaler.
 * En användare kan endast **posta meddelanden** i kanaler de prenumererar på.
 * En användare kan endast se meddelanden i de kanaler de är med i.
@@ -111,7 +111,7 @@ För att uppfylla kraven i uppgiften bör ert API minst stödja följande metode
 **För Guldstjärna:**
 * Ett meddelande kan tillhöra en eller flera kanaler.
 * Det går att sortera meddelanden på datum.
-* API och databasstruktur reflekterar detta
+* API ER-diagram och databasstruktur reflekterar detta
 * Postman-dokumentation finns även för detta utökade flöde
 
 ## Handledning
@@ -126,9 +126,9 @@ Inlämning sker på Azomo med en länk (alla i gruppen måste göra en inlämnin
   - Kod
   - ER-diagram
   - Postman-anrop (samling eller skärmdumpar)
-  - README-fil med kort beskrivning av projektet
+  - README-fil med kort beskrivning av projektet och dokumentation för hur man startar upp och använder er kod.
 
 > [Så importerar/exporterar du i Postman](https://learning.postman.com/docs/getting-started/importing-and-exporting/importing-and-exporting-overview/#importing-data-into-postman)
 
 ### Redovisning
-Sker genom att alla grupper redovisar under lektionstiden den 21/5. MAX 20 min redovisning/presentation.
+Sker genom att alla grupper spelar in presentation/redovisning senast den 22/5 22.59. MAX 20 min inspelning/redovisning/presentation.
