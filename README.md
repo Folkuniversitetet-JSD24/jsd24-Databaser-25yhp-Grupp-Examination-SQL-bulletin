@@ -111,7 +111,7 @@ För att uppfylla kraven i uppgiften bör ert API minst stödja följande metode
 **För Guldstjärna:**
 * Ett meddelande kan tillhöra en eller flera kanaler.
 * Det går att sortera meddelanden på datum.
-* API ER-diagram och databasstruktur reflekterar detta
+* API, ER-diagram och databasstruktur reflekterar detta
 * Postman-dokumentation finns även för detta utökade flöde
 
 ## Handledning
